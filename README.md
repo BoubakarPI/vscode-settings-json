@@ -1,7 +1,7 @@
 # Instructions
 
 **NOTE:** Please take time to read the short documentation of **"Custom CSS and JS Loader"** for some useful tips for various operating systems to avoid issues regarding the changes not taking effect.
-
+ 
 1. Install "Custom CSS and JS Loader" VS Code Extension.
 2. Copy the contents of settings.json to your VS Code's settings.json (warning: it will overwrite your settings).
 3. Add `vscode_custom_css.imports` array to your settings.json file:
