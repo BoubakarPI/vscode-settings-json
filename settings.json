@@ -42,7 +42,7 @@
     "editor.gotoLocation.multipleImplementations": "goto",
     "editor.gotoLocation.multipleTypeDefinitions": "goto",
 
-    // Typography
+    // typographie 
     "editor.fontFamily": "Geist Mono, JetBrains Mono, Fira Code",
     "editor.suggestFontSize": 16,
     "editor.suggestLineHeight": 30,
