@@ -1,4 +1,4 @@
-# Instructions
+# Instructions to start
  
 **NOTE:** Please take time to read the short documentation of **"Custom CSS and JS Loader"** for some useful tips for various operating systems to avoid issues regarding the changes not taking effect.
  
